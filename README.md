@@ -4,14 +4,14 @@
 
 ## Opensource Project
 ### DMTF(SPDM)
-  - [libspdm](https://github.com/DMTF/libspdm)： (2021.10~present)
-  - [spdm-emu](https://github.com/DMTF/spdm-emu)：(2021.10~present)
-  - [spdm-dump](https://github.com/DMTF/spdm-dump)：(2021.10~present)
-  - [SPDM-Responder-Validator](https://github.com/DMTF/SPDM-Responder-Validator)：(2022.5~present)
+  - [libspdm](https://github.com/DMTF/libspdm): SPDM C implementation     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; &nbsp;      (Participation time: 2021.10~present)
+  - [spdm-emu](https://github.com/DMTF/spdm-emu): Emulator for Libspdm    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; &nbsp;        (Participation time: 2021.10~present)
+  - [spdm-dump](https://github.com/DMTF/spdm-dump): Dump for spdm-emu     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;                (Participation time: 2021.10~present)
+  - [SPDM-Responder-Validator](https://github.com/DMTF/SPDM-Responder-Validator): Validator for Libspsdm  &emsp;&emsp;&emsp;&nbsp;     (Participation time: 2022.05~present)
 
 ### tianocore(EDKII/UEFI)
-  - [Enable CryptoMbedtlsLib](https://github.com/tianocore/edk2-staging/tree/OpenSSL11_EOL)：(2023.1~present)
-  - [DeviceSecurity](https://github.com/tianocore/edk2-staging/tree/DeviceSecurity)：(2023.1~present)
+  - [CryptoMbedtlsLib](https://github.com/tianocore/edk2-staging/tree/OpenSSL11_EOL): Use Mbedlts implement CryptoPkg &emsp;&emsp; (Participation time: 2023.01~present)
+  - [DeviceSecurity](https://github.com/tianocore/edk2-staging/tree/DeviceSecurity): Device Security based on TCG PFP spec &emsp;&emsp;(Participation time: 2023.01~present)
 
 ## Award
   - [2023 DMTF Star Award](https://www.dmtf.org/about/star_awards)
