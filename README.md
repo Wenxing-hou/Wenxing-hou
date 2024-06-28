@@ -3,9 +3,10 @@
  - GitHub: https://github.com/Wenxing-hou
 
 ## Education and Employment History
- - 2014.9~2018.6    &emsp;&emsp;      Bachelor's degree           &emsp;&emsp;&nbsp;    North China Electric Power University, China.(211)
- - 2018.9~2021.6    &emsp;&emsp;      Master's degree             &emsp;&emsp;&ensp;&nbsp;&nbsp;     Shandong University, China.(985)
  - 2021.7~present   &ensp; &nbsp; &nbsp; Firmware Engineer  &emsp;&emsp;            Intel
+ - 2018.9~2021.6    &emsp;&emsp;      Master's degree             &emsp;&emsp;&ensp;&nbsp;&nbsp;     Shandong University, China.(985)
+ - 2014.9~2018.6    &emsp;&emsp;      Bachelor's degree           &emsp;&emsp;&nbsp;    North China Electric Power University, China.(211)
+
 
 ## Main Opensource Project
 #### DMTF(SPDM)
