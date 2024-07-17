@@ -30,4 +30,5 @@
 - C
 - Git
 - Crypto
+- SPDM
 ---      
