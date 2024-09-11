@@ -23,7 +23,7 @@
   - [2023 DMTF Star Award](https://www.dmtf.org/about/star_awards)
 
 ## Opensource Rule
-  - [EDKII CryptoPkg Reviewer](https://github.com/tianocore/edk2/blob/master/Maintainers.txt)
+  - [EDKII CryptoPkg Reviewer](https://github.com/tianocore/edk2/blob/edk2-stable202408/Maintainers.txt)
   - DMTF member
 
 ## Skill
