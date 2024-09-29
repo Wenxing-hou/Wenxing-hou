@@ -20,6 +20,7 @@
   - [DeviceSecurity](https://github.com/Wenxing-hou/edk2-staging/tree/old_DeviceSecurity): Device Security based on TCG PFP spec &emsp;&emsp;(Participation time: 2023.01~2024.03)
 
 ## Award
+  - [2024 DMTF Star Award](https://www.dmtf.org/about/star_awards)
   - [2023 DMTF Star Award](https://www.dmtf.org/about/star_awards)
 
 ## Opensource Rule
