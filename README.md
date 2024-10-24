@@ -1,5 +1,5 @@
 ## How to reach me
- - Email：wenxing.hou@intel.com
+ - Email：houwenxing7@gmail.com
  - GitHub: https://github.com/Wenxing-hou
 
 ## Education and Employment History
