@@ -27,9 +27,9 @@
   - [EDKII CryptoPkg Reviewer](https://github.com/tianocore/edk2/blob/edk2-stable202408/Maintainers.txt)
   - DMTF member
 
+## Partner
+- My Tech Lead at Intel: [Jiewen Yao](https://github.com/jyao1)
+
 ## Skill
-- C
-- Git
-- Crypto
-- SPDM
+- C&emsp; Git&emsp;  Crypto&emsp; SPDM&emsp;
 ---      
