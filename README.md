@@ -2,11 +2,12 @@
  - Email：houwenxing7@gmail.com
  - GitHub: https://github.com/Wenxing-hou
 
-## Education and Employment History
- - 2021.07~2024.10    &emsp;&emsp;      Firmware Engineer           &emsp;&emsp;            Intel
- - 2018.09~2021.06    &emsp;&emsp;      Master's degree             &emsp;&emsp;&ensp;&nbsp;&nbsp;     Shandong University, China.(985)
- - 2014.09~2018.06    &emsp;&emsp;      Bachelor's degree           &emsp;&emsp;&nbsp;    North China Electric Power University, China.(211)
+## Employment History
+ - 2021.07~2024.10    &emsp;&emsp;      Firmware Security Engineer           &emsp;&emsp;            Intel
 
+## Education History
+ - 2018.09~2021.06    &emsp;&emsp;      Master's degree    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp;     Shandong University, China.(985)
+ - 2014.09~2018.06    &emsp;&emsp;      Bachelor's degree  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;    North China Electric Power University, China.(211)
 
 ## Main Opensource Project
 #### DMTF(SPDM)
