@@ -3,6 +3,7 @@
  - GitHub: https://github.com/Wenxing-hou
 
 ## Employment History
+ - 2024.11~present    &emsp;&emsp;      SOC Security Engineer             &emsp; &emsp;&emsp;&emsp;          Xiaomi
  - 2021.07~2024.10    &emsp;&emsp;      Firmware Security Engineer           &emsp;&emsp;            Intel
 
 ## Education History
