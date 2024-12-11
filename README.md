@@ -18,8 +18,8 @@
   - [SPDM-Responder-Validator](https://github.com/DMTF/SPDM-Responder-Validator): Validator for Libspsdm  &emsp;&emsp;&emsp;&nbsp;     (Participation time: 2022.05~2024.09)
 
 #### tianocore(EDKII/UEFI)
-  - [CryptoMbedtlsLib](https://github.com/tianocore/edk2-staging/tree/OpenSSL11_EOL): Use Mbedlts implement CryptoPkg &emsp;&emsp; (Participation time: 2023.01~2024.06)
-  - [DeviceSecurity](https://github.com/Wenxing-hou/edk2-staging/tree/old_DeviceSecurity): Device Security based on TCG PFP spec &emsp;&emsp;(Participation time: 2023.01~2024.03)
+  - [CryptoMbedtlsLib](https://github.com/tianocore/edk2/tree/master/CryptoPkg/Library/BaseCryptLibMbedTls): Use Mbedlts implement CryptoPkg &emsp;&emsp; (Participation time: 2023.01~2024.06)
+  - [DeviceSecurity](https://github.com/tianocore/edk2/tree/master/SecurityPkg/DeviceSecurity): Device Security based on TCG PFP spec &emsp;&emsp;(Participation time: 2023.01~2024.03)
 
 ## Award
   - [2024 DMTF Star Award](https://www.dmtf.org/about/star_awards)
