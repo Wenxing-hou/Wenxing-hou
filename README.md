@@ -34,5 +34,5 @@
 - My Tech Lead at Intel: [Jiewen Yao](https://github.com/jyao1)
 
 ## Skill
-- C&emsp; Git&emsp;  Crypto&emsp; SPDM&emsp;
+- C&emsp; Git&emsp; CMake&emsp; Crypto&emsp; SPDM&emsp;
 ---      
