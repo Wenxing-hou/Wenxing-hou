@@ -34,5 +34,5 @@
 - My Tech Lead at Intel: [Jiewen Yao](https://github.com/jyao1)
 
 ## Skill
-- C&emsp; Rust&emsp; Git&emsp; CMake&emsp; Crypto&emsp; SPDM&emsp; TLS&emsp;
+- C&emsp; Rust&emsp; Git&emsp; CMake&emsp; Crypto&emsp; SPDM&emsp; TLS&emsp; TEE(Trustzone/TDX)&emsp;
 ---      
